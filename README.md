@@ -1,1 +1,2 @@
-# AlphaCare-_Insurance-Analysis
+# AlphaCare-Insurance-Analysis
+The AlphaCare Insurance Analysis project will examine customer data, claims, and coverage patterns, in order to gain insight into consumer demographics and claim trends, as well as to pinpoint areas for potential improvement in customer satisfaction and retention, . This project uses machine learning and data analytics to inform business choices for AlphaCare Insurance.
